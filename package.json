@@ -1,0 +1,17 @@
+{
+  "name": "github-repositories",
+  "version": "1.0.0",
+  "description": "Cypress E2E Tests for the-internet.herokuapp.com",
+  "repository": "https://github.com/Ghada-1992/cypress-e2e-tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ghada AYARI",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^5.1.0",
+    "cypress-xpath": "^1.6.0"
+  }
+}
