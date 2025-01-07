@@ -2,7 +2,7 @@
  * a few simple API tests using cypress' built-in api functionality
  */
 describe('API Tests', () => {
-  const baseUrl = 'https://cat-fact.herokuapp.com'
+  const baseUrl = 'https://test.herokuapp.com'
 
   it('should return cat facts', () => {
     let catFacts = [
