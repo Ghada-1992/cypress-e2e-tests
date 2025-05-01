@@ -3,7 +3,7 @@ import { LoginPage } from "../page-objects/login-page";
 import { HomePage } from "../page-objects/home-page";
 import { SecureAreaPage } from "../page-objects/secure-area-page";
 
-describe('Form Authentication Tests', () => {
+describe('Form Authentication Tests @smoke', () => {
   const basePage = new BasePage();
   const loginPage = new LoginPage();
   const secureAreaPage = new SecureAreaPage();
